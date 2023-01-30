@@ -7,7 +7,7 @@
 <h2>👦🏾 Quem eu sou?</h2>
 
   <div align="center">
-    <p>"O homem não é nada além daquilo que a educação faz dele." -Immanuel Kant</p>
+    <p>"Sic Parvis Magna - A grandiosidade vem das pequenas coisas" - Francis Drake</p>
   </div>
 
 <p>
