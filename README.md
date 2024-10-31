@@ -11,7 +11,7 @@
   </div>
 
 <p>
-    Meu nome é Lucas Alcântara, atualmente tenho apenas 17 anos, mas tenho uma meta de virar um programador, para tanto, estou estudando e estabelecendo novos conhecimentos e metas pessoais para meu desenvolvimento. Assim, criando um alicerce sólido para meu futuro, visto que gostaria de se tornar um dia impactante no cenário e conseguir me tornar um verdadeiro desenvolvedor.
+    Meu nome é Lucas Alcântara, atualmente tenho apenas 19 anos, mas tenho uma meta de virar um programador, para tanto, estou estudando e estabelecendo novos conhecimentos e metas pessoais para meu desenvolvimento. Assim, criando um alicerce sólido para meu futuro, visto que gostaria de se tornar um dia impactante no cenário e conseguir me tornar um verdadeiro desenvolvedor.
 </p>
 
 <h2>🛠️ Minhas Habilidades</h2>
