@@ -64,4 +64,4 @@
 </a>
 
 
-<img align="left" height="300" width="300" src="./lucas.gif">
+// <img align="left" height="300" width="300" src="./lucas.gif">
