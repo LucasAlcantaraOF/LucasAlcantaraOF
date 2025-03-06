@@ -47,17 +47,9 @@ Estou em busca de oportunidades para aplicar e expandir meus conhecimentos em pr
 <a href=https://t.me/LucasAlcantaraa>
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
-<a href="https://br.pinterest.com/lucasalencaralcantara/">
-<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
-</a>
-<a href="https://open.spotify.com/user/lucasalencaralcantara?si=63751c2dfe1e4f2c">
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-</a>
-<a href="https://steamcommunity.com/id/LucasAAlcantara/">
-<img src="	https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-</a>
 
-<a href=#>
+
+<a href="https://www.linkedin.com/in/lucasalcantaraof/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href=#>
