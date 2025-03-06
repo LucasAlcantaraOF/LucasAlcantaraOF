@@ -11,8 +11,9 @@
   </div>
 
 <p>
-    Meu nome é Lucas Alcântara, atualmente tenho apenas 19 anos, mas tenho uma meta de virar um programador, para tanto, estou estudando e estabelecendo novos conhecimentos e metas pessoais para meu desenvolvimento. Assim, criando um alicerce sólido para meu futuro, visto que gostaria de se tornar um dia impactante no cenário e conseguir me tornar um verdadeiro desenvolvedor.
-</p>
+    Olá, meu nome é Lucas Alcântara, e atualmente estou cursando o 1º semestre de Sistemas de Informação na Estácio Fortaleza. Tenho o objetivo de me manter sempre atualizado e conectado com o mercado de tecnologia, compartilhando minhas conquistas e aprendizados até o momento. Acredito que esse processo de troca de conhecimento é fundamental tanto para o meu crescimento acadêmico quanto profissional.
+
+Estou em busca de oportunidades para aplicar e expandir meus conhecimentos em projetos práticos, além de contribuir para equipes que compartilham do meu entusiasmo pela inovação e resolução de problemas. Meu foco é agregar valor ao meu currículo e desenvolver habilidades que me tornem um profissional cada vez mais completo e preparado para os desafios da área.
 
 <h2>🛠️ Minhas Habilidades</h2>
 <h3>Conhecimentos:</h3>
