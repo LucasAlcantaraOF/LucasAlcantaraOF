@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/LucasAlcantaraOF">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Lucas+Alc%C3%A2ntara+%F0%9F%91%8B;Atualmente+estudante+de+programa%C3%A7%C3%A3o;Buscando+novos+conhecimentos!+%F0%9F%92%BB" /></a>
 </p>
 
@@ -57,4 +57,4 @@ Estou em busca de oportunidades para aplicar e expandir meus conhecimentos em pr
 </a>
 
 
-// <img align="left" height="300" width="300" src="./lucas.gif">
+<img align="left" height="300" width="300" src="./lucas.gif">
